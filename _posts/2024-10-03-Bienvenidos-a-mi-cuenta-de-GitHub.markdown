@@ -1,20 +1,34 @@
 ---
 layout: post
-title:  I conquer the Himalayas
-date:   2017-08-25 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: post-1.jpg # Add image post (optional)
+title:  Mi Vecino Jose
+date:   2024-10-03 13:32:20 +0300
+description: ING hace la vida más fácil con su ‘vecino Jose’
+img: post-7.jpg # Add image post (optional)
 tags: [Blog, Mountains]
-author: Adam Neilson # Add name author (optional)
+author: JuanIzertis (optional)
 ---
-Vaporware snackwave stumptown, small batch tattooed try-hard prism fanny pack 3 wolf moon edison bulb tofu hot chicken vice. Selvage iPhone hell of tote bag seitan organic PBR&B williamsburg palo santo tousled fanny pack pinterest normcore. Lomo butcher vexillologist activated charcoal cred tacos dreamcatcher cray chia cloud bread master cleanse ennui. Copper mug hella iceland occupy venmo. Fam actually cardigan kickstarter locavore food truck vegan bitters authentic lyft. Vaporware listicle keffiyeh adaptogen. Cloud bread stumptown swag la croix polaroid pickled. Next level yuccie four dollar toast polaroid. Portland chicharrones craft beer helvetica 3 wolf moon.
+Con un tono humorístico, se muestra cómo Jose es el vecino perfecto, siempre dispuesto a ayudar en diversas situaciones cotidianas e incluso en las más tediosas. Desde colaborar en una mudanza y cuidar a una mascota, hasta recogerte de un festival o hacerte la declaración de la renta y que te salga a devolver
 
-Fanny pack wolf asymmetrical PBR&B activated charcoal chia retro iPhone. Everyday carry artisan live-edge bespoke ramps. Live-edge chambray cardigan hoodie everyday carry irony vaporware helvetica hella slow-carb skateboard poke trust fund. Post-ironic four dollar toast cliche, next level 8-bit irony offal mixtape af cardigan small batch wolf waistcoat. Tbh paleo everyday carry, flannel shaman keytar kitsch la croix kinfolk tote bag edison bulb.
+ING ha lanzado ‘Mi vecino Jose’, la última campaña que presenta su Cuenta Nómina. Se trata de una accón dirigida a conectar con los jóvenes que buscan una herramienta que les ponga las cosas fáciles y les ayude a ser libres. La Cuenta Nómina no tiene ataduras y, sin gastos ni comisiones de apertura, de forma sencilla, ofrece soluciones y facilidades para la gestión de sus necesidades diarias, desde el ahorro hasta la planificación de viajes o la realización de compras online seguras.
 
-> Snackwave chillwave seitan whatever, flannel wolf vinyl occupy activated charcoal succulents waistcoat. Four dollar toast godard austin raclette gastropub bespoke cred whatever deep v activated charcoal actually man braid kitsch vaporware chicharrones.
+La campaña se centra en la figura de ese familiar, amigo o compañero de trabajo que todos conocemos y a quien recurrimos siempre que tenemos alguna duda, porque suele saber de todo.
 
-Taxidermy shaman irony williamsburg bespoke. Freegan ugh mumblecore selfies, shabby chic neutra everyday carry. Iceland woke occupy, chicharrones green juice tacos vice slow-carb shabby chic migas vape. Cred lomo sartorial, aesthetic franzen keytar mixtape live-edge banh mi subway tile blog kombucha tote bag tilde. Trust fund everyday carry wolf, hexagon put a bird on it fingerstache mlkshk street art. Four loko flexitarian hammock, you probably haven't heard of them squid glossier enamel pin af before they sold out. Jianbing narwhal chartreuse helvetica 3 wolf moon quinoa. 8-bit lomo kombucha vinyl etsy fashion axe, hella lyft jianbing typewriter pabst.
+La pieza principal de la campaña, de la mano de Sra. Rushmore, es un audiovisual en el que se enumeran, a través de pegadizos pareados, las múltiples cualidades de Jose que facilitan la vida de quienes lo rodean. Cada situación presentada en el audiovisual refuerza la idea de que tener un vecino como Jose es una bendición. Y es que... ojalá todo el mundo tuviera un vecino como “Mi Vecino Jose”. Pero por si tu vecino no es Jose, ING tiene la Cuenta Nómina, un producto sin comisiones, que está diseñado para adaptarse y responder a las necesidades de cada cliente.
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
+“Mi vecino Jose” es una campaña que busca generar atracción en los segmentos más jóvenes. La Cuenta ofrece una propuesta de valor muy completa y que ayuda a los clientes en todo lo que necesitan.
 
-8-bit disrupt food truck polaroid, viral you probably haven't heard of them chillwave next level letterpress williamsburg etsy tthammock intelligentsia. Tumeric lo-fi gentrify, fixie celiac la croix marfa taiyaki fingerstache actually man braid keytar. Brunch coloring book succulents church-key umami affogato. Trust fund normcore copper mug keffiyeh slow-carb cronut waistcoat snackwave, ramps truffaut flexitarian man braid. Celiac flexitarian authentic hashtag wayfarers. Next level pitchfork scenester godard. Salvia etsy edison bulb knausgaard poke jianbing actually. Mlkshk retro cardigan photo booth swag. Occupy shaman austin, meditation green juice flannel succulents twee. Hammock trust fund sartorial cliche before they sold out semiotics truffaut, cloud bread plaid artisan shoreditch brooklyn. Shoreditch air plant asymmetrical DIY. Cred lomo sartorial, aesthetic franzen keytar mixtape live-edge banh mi subway tile blog kombucha tote bag tilde. Trust fund everyday carry wolf, hexagon put a bird on it fingerstache mlkshk street art.
+“En ING tenemos una propuesta de Cuenta NÓMINA muy completa que ayuda a nuestros clientes en todo lo que necesitan y así hemos querido transmitirlo a través de Jose, el protagonista de la campaña. Con “Mi vecino Jose” buscamos además acercarnos y conectar más con los jóvenes”, asegura Luis González Soto, director de marketing y gestión de marca en ING España.
+
+La colaboración entre ING y Sra. Rushmore en esta campaña pone de relieve la importancia de conectar con el público joven de manera auténtica y cercana por parte de las marcas. "Mi vecino Jose" no solo presenta los beneficios de la Cuenta Nómina, sino que también celebra las pequeñas grandes cosas que hacen que la vida diaria sea más llevadera.
+
+La prioridad de ING es estar cerca de sus clientes y ayudar a que las personas progresen en su vida. Así a través de esta campaña, ING refuerza su compromiso por continuar ofreciendo productos y servicios que respondan a las necesidades de la sociedad de forma sencilla, cercana y transparente.
+
+En palabras de César García, director general creativo de Sra. Rushmore: "Nuestro objetivo con esta campaña es mostrar de manera divertida y cercana cómo la 'Cuenta NÓMINA puede convertirse en ese aliado de confianza que todos necesitamos en nuestra vida diaria, tal como nuestro querido vecino Jose”.
+
+La campaña en medios, liderada por la agencia iProspect, centra su actividad en los canales audiovisuales y audio, para potenciar la canción como elemento viralizador de la campaña. Esta campaña multicanal, producida por The Gang y con música original de Trafalgar, ya está en el aire y tendrá presencia en televisión, televisión conectada, OTTs, cine, digital, radio, audio on line e irá acompañada de acciones de innovación con influencia.
+
+“Mi vecino Jose” es una campaña producida de manera sostenible y cuenta con el sello Creast que garantiza la reducción de la huella de carbono. Esto refleja el compromiso continuo de ING con la integración de prácticas responsables y eficaces en todas sus operaciones y comunicaciones, con el objetivo de reducir el impacto ambiental digital.
+
+![Mi Vecino Jose]({{site.baseurl}}/assets/img/jose.jpg)
+
+
